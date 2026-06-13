@@ -2,47 +2,45 @@
   <img src="./assets/Kirby-cropped" width="100%" alt="Kirby banner" />
 </p>
 
-<h1 align="left">Hi, I'm Stevin </h1>
+<h2 align="center">hey, i'm stevin 👋</h2>
 
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
+### about
 
----
+CS student building games, tools, and random ideas I get curious enough to finish.
 
-## About me
+I run a Roblox game studio and I’m still figuring out the exact lane I want to go deep in — probably somewhere around software engineering, backend, devtools, or game systems.
 
-I'm a college student interested in software engineering, game development, backend systems, and developer tools.
-I run a Roblox game studio and like building projects where there are real users, real bugs, and real constraints.
+</td>
+<td width="45%" valign="top">
 
-Right now I'm exploring different parts of software engineering instead of locking myself into one path too early.
+### links
 
----
+- [linkedin](YOUR_LINKEDIN)
+- [portfolio](YOUR_PORTFOLIO)
+- [email](mailto:YOUR_EMAIL)
 
+### using lately
 
+Lua/Luau · Python · JS/TS · React · Node · GitHub Actions · Docker
 
-## Tech
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,git,githubactions,docker,linux,bash,lua,robloxstudio,n8n&perline=7" />
-</p>
-
----
-
-## Currently learning
-
-- Backend development
-- CI/CD and deployment workflows
-- Game systems and player-facing features
-- Writing cleaner, more maintainable code
-
----
-
-## GitHub stats
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=lua,robloxstudio,python,js,ts,react,nodejs,git,githubactions,docker,linux,bash&perline=6" />
 </p>
+
+<details>
+  <summary>github stats</summary>
+
+  <br>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+  </p>
+</details>
