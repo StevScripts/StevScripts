@@ -8,7 +8,7 @@
 <ul>
   <li>Computer science student at UCF</li>
   <li>Interested in cloud and AI engineering</li>
-  <li>I make games on roblox</li>
+  <li>I make games on Roblox</li>
   <li>I LOVE kirby</li>
 </ul>
 
