@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/kirby-star" width="100%" alt="Kirby banner" />
+  <img src="./assets/Kirby-Sleeping" width="100%" alt="Kirby banner" />
 </p>
 
 <h1 align="center">Hi, I'm Stevin </h1>
