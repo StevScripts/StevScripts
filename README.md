@@ -2,11 +2,8 @@
   <img src="./assets/Kirby-cropped" width="100%" alt="Kirby banner" />
 </p>
 
-<h1 align="center">Hi, I'm Stevin </h1>
+<h1 align="left">Hi, I'm Stevin </h1>
 
-<p align="center">
-  CS student
-</p>
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
@@ -25,18 +22,12 @@ Right now I'm exploring different parts of software engineering instead of locki
 
 ---
 
-## Featured projects
 
-- **[Project Name](https://github.com/YOUR_USERNAME/REPO_NAME)** — short sentence on what it does and why it matters.
-- **[Project Name](https://github.com/YOUR_USERNAME/REPO_NAME)** — short sentence on what you built/learned.
-- **[Project Name](https://github.com/YOUR_USERNAME/REPO_NAME)** — short sentence on the tech or impact.
-
----
 
 ## Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,robloxstudio,python,js,ts,react,nodejs,html,css,git,githubactions,docker,linux,bash&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,git,githubactions,docker,linux,bash,lua,robloxstudio,n8n&perline=7" />
 </p>
 
 ---
