@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/Kirby-cropped" width="100%" alt="Kirby banner" />
 </>
-
+![](https://komarev.com/ghpvc/?username=StevScripts)
 <h1 align="Left">Hey, i'm Stevin 👋</h1>
 
 ### About
