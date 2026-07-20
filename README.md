@@ -8,7 +8,7 @@
 <ul>
   <li>Computer science student at UCF</li>
   <li>Interested in cloud and AI engineering</li>
-  <li>I makes games on roblox (Currently at 116 million plays across all my games😈)</li>
+  <li>I makes games on roblox (Currently at 116 million plays across all my games)</li>
 </ul>
 
 
