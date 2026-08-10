@@ -1,31 +1,26 @@
 <p align="center">
   <img src="./assets/Kirby-cropped" width="100%" alt="Kirby banner" />
-</>
-
-<h1 align="Left">Hey, i'm Stevin 👋</h1>
-
-### About
-<ul>
-  <li>Computer science student at UCF</li>
-  <li>Interested in cloud and AI engineering</li>
-  <li>I makes games on roblox (Currently at 116 million plays across all my games)</li>
-</ul>
-
-
-<td valign="top" width="50%">
-  
-![StevScripts's Streak](https://github-readme-streak-stats.herokuapp.com/?user=StevScripts&theme=dark&hide_border=true)
-&nbsp;
-![Leetcode Stats](https://leetcard.jacoblin.cool/StevScripts?theme=dark)
-
-&nbsp;
-
-![](https://komarev.com/ghpvc/?username=StevScripts)
-
-### My Skills
-<p align="Left">
- <img src = "https://skillicons.dev/icons?i=ts,js,python,c,lua,arduino,vercel,nextjs,docker,robloxstudio,blender,figma,photoshop">
 </p>
 
-  
+# Hey, I'm Stevin 👋
 
+I'm a computer science student at UCF building AI systems, full-stack products, and live multiplayer experiences.
+
+## Featured work
+
+- [Recall](https://devpost.com/software/recall-oswlh3) — wearable AI memory assistant built with ESP32 devices, computer vision, and semantic search; placed 2nd among 85+ projects at HackUSF 2026.
+- [TideSense](https://devpost.com/software/riptide-wip) — React Native app that analyzes smartphone imagery for rip-current indicators using YOLO-based TensorFlow Lite inference.
+- [Tess Farms](https://tessfarms.com) — offline-capable invoicing, inventory, and delivery management for a nursery serving 120+ customers.
+- [Portfolio](https://stevin.dev) — more of my projects and experience.
+
+## Current focus
+
+- AI automation and applied computer vision
+- Full-stack TypeScript and Python applications
+- Performance-sensitive multiplayer systems in Luau
+
+![Stevin's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=StevScripts&theme=dark&hide_border=true)
+
+![LeetCode stats](https://leetcard.jacoblin.cool/StevScripts?theme=dark)
+
+![Profile views](https://komarev.com/ghpvc/?username=StevScripts)
